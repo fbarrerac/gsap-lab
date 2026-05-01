@@ -1,0 +1,36 @@
+body {
+    background-color: #0d1117;
+    color: white;
+    margin: 0;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+
+.spacer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: #30363d;
+}
+
+.anim-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding-left: 10vh;
+    background-color: #161b22;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background: #00ff88;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+}
